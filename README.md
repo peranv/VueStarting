@@ -1,4 +1,4 @@
-# 03-fundamentos
+# Starting with Vue
 
 ## Project setup
 ```
